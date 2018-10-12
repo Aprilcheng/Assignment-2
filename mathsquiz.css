@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+  color: yellow;
+  border-width: 5px;
+  border-color: white;
+  border-style: groove;
+  border-top: 50px;
+  background-color: #728E76;
+  font-family: fantasy;
+  font-weight: normal;
+  font-style: oblique;
+  border-spacing: inherit;
+
+}
+
+body{
+  background-color: #31DF9F;
+}
